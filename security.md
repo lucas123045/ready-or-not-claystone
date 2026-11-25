@@ -189,6 +189,6 @@ Use the button in the Quick Start section.
 
 ---
 
-*Ready or Not · Updated 2026-11-24 · Shared under the MIT License*
+*Ready or Not · Updated 2026-11-25 · Shared under the MIT License*
 
-<!-- updated 2026-11-24 -->
+<!-- updated 2026-11-25 -->
